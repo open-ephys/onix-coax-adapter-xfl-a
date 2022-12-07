@@ -1,0 +1,7 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"J1,J1,J1,J1,J1,J1,J1,J1,J1,J1,J1,J1,J1,J1,J1,J1,J1,J1,J1,J1,J1,J1,J1,J1,J1";"LINX_CONMHF4-SMD-G";25;"Conn_Coaxial";;;
+2;"TP2,TP2,TP1,TP1,TP1,TP2,TP1,TP2,TP1,TP2,TP1,TP2,TP1,TP2,TP2,TP2,TP1,TP1,TP1,TP2,TP2,TP2,TP1,TP1,TP2,TP2,TP2,TP1,TP1,TP2,TP2,TP2,TP2,TP1,TP1,TP1,TP2,TP1,TP1,TP2,TP2,TP1,TP2,TP1,TP2,TP2,TP1,TP1,TP1,TP1";"Castellation";50;"TestPoint";;;
+3;",";"";2;"";;;
+4;"";"OE-LOGO-7X5";1;"";;;
+5;"REF**";"Fiducial_1mm_Mask2mm";1;"Fiducial_1mm_Mask2mm";;;
+6;"G***,G***,G***,G***,G***,G***,G***,G***,G***,G***,G***,G***,G***,G***,G***,G***,G***,G***,G***,G***,G***,G***,G***,G***,G***";"LOGO";25;"LOGO";;;
