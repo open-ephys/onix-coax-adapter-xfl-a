@@ -29,3 +29,12 @@ fp-info-cache
 
 # Windows
 desktop.ini
+
+# Eagle
+# Backup files
+*.s#?
+*.b#?
+*.l#?
+*.b$?
+*.s$?
+*.l$?
