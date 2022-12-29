@@ -1,0 +1,13 @@
+69 mm x 64 mm
+Layers: 4
+Thickness: 0.6 mm
+FR4 TG 170-180
+Color: green
+4/4 mil
+ENIG
+Has Half-cut/Castellated Holes
+Has Via in pad
+Min Hole size: 0.2 mm
+
+Solder the 2 bottom componets first since they are Automotive rated
+Hand solder top components with low temperature solder.
